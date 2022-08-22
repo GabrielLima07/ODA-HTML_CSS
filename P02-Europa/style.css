@@ -1,0 +1,25 @@
+body {
+    font-family:cursive;
+    font-size: large;
+    background: #E2DFD2;
+}
+h3 {
+    color: #ff9d07;
+}
+h1 {
+    color: #ff9d07;
+}
+em {
+    font-style: italic;
+    color: gray;
+}
+.sidebar {
+    display: inline;
+    width: 15%;
+    float: right;
+    border: 2px solid #73AD21;
+}
+.box {
+margin: 50px;
+padding: 50px;
+}
